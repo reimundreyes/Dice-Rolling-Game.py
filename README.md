@@ -5,13 +5,11 @@ It is a Python-based dice rolling game where the player rolls a virtual dice
 to earn points. The game demonstrates the use of variables, user input,
 loops, conditional statements, and random number generation.
 
-## Student Information
-**Name:** Reimund Philip A. Reyes  
-**Course & Section:** BS IT 1-A  
 
 ## Installation
-Ensure Python 3.6 or higher is installed on your system.  
-You can download it from here: https://www.python.org/downloads/
+1. Ensure Python 3.6 or higher is installed on your system.  
+2. You can download it from here: https://www.python.org/downloads/
+3. If you encounter issues with character display, ensure your terminal supports UTF-8 encoding.
 
 This program does not require any external libraries. All required modules
 are included with Python by default.
@@ -29,3 +27,8 @@ reaches 20 points or decides to quit.
 4. Your score increases with each roll
 5. Reach 20 points to win or type `q` to quit
 6. Choose whether to play again
+
+
+## Student Information
+**Name:** Reimund Philip A. Reyes  
+**Course & Section:** BS IT 1-A  
