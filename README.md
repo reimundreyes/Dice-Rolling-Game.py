@@ -1,6 +1,6 @@
 # Dice Rolling Game
 
-## Description
+## Final Project for Programming
 This is my Final Project for Programming 1.  
 It is a Python-based dice rolling game where the player rolls a virtual dice
 to earn points. The game demonstrates the use of variables, user input,
