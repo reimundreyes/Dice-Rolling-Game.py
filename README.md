@@ -1,4 +1,4 @@
-# Dice Rolling Game
+🎲 # Dice Rolling Game 🎲
 
 ## Final Project for Programming
 This is my Final Project for Programming 1.  
