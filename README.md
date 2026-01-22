@@ -1,4 +1,4 @@
-# Dice Rolling Game
+# Dice Rolling Game 🎲
 
 ## Final Project for Programming 1 
 It is a Python-based dice rolling game where the player rolls a virtual dice
