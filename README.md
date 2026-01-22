@@ -21,3 +21,4 @@ How to Play?
 4. Points are added to your score after each roll
 5. Reach 20 points to win or type `q` to quit
 6. Choose whether to play again
+
